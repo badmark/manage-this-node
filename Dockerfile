@@ -1,6 +1,6 @@
 FROM node:4.2
 
-RUN git clone https://github.com/badmar/manage-this-node.git /opt/manage-this
+RUN git clone https://github.com/badmark/manage-this-node.git /opt/manage-this
 
 WORKDIR /opt/manage-this
 
