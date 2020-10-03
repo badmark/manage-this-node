@@ -1,4 +1,4 @@
-FROM node:4.2
+FROM node:6.0
 
 RUN git clone https://github.com/badmark/manage-this-node.git /opt/manage-this
 
